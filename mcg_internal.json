@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
   "maintenance_mode": "off",
-  "message": "Under maintenance!"
+  "message": "Under maintenance!",
+  "app_url": "",
 }
